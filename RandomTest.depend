@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1436766644 source:c:\users\arkms\desktop\randomtest\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"mtrand.h"
+
+1436766755 source:c:\users\arkms\desktop\randomtest\mtrand.cpp
+	"mtrand.h"
+	<math.h>
+
+1436762250 c:\users\arkms\desktop\randomtest\mtrand.h
+
